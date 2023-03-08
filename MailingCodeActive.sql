@@ -1,0 +1,1 @@
+SELECT id,mailing_code,feature,description,status FROM mailing_code WHERE `status` = 'Active'
